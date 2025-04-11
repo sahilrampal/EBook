@@ -24,7 +24,7 @@ self.addEventListener('install', event => {
   self.skipWaiting(); // Force immediate activation
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(cache => cache.addAll(ASSETS_TO_CACHE))
+      .then(cache => cache.addAll(ASSETS_TO_CACHE)))
 });
 
 self.addEventListener('activate', event => {
