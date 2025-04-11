@@ -1,6 +1,6 @@
 // sw.js - Service Worker File
 
-const CACHE_NAME = 'my-site-cache-v1';
+const CACHE_NAME = 'my-site-cache-v2';
 const ASSETS_TO_CACHE = [
     '/EBOOK/',
     '/EBOOK/index.html',
