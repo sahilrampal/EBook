@@ -2,21 +2,21 @@
 
 const CACHE_NAME = 'my-site-cache-v2';
 const ASSETS_TO_CACHE = [
-    '/EBOOK/',
-    '/EBOOK/index.html',
-    '/EBOOK/css/bootstrap-icons.css',
-    '/EBOOK/css/bootstrap.min.css',
-    '/EBOOK/css/templatemo-ebook-landing.min.css',  
-    '/EBOOK/js/bootstrap.bundle.min.js',
-    '/EBOOK/js/click-scroll.js',
-    '/EBOOK/js/custom.js',
-    '/EBOOK/js/jquery.min.js',
-    '/EBOOK/js/jquery.sticky.js',
-    '/EBOOK/images/avatar/businessman-sitting-by-table-cafe.jpg',
-    '/EBOOK/images/avatar/circle-scatter-haikei.png',
-    '/EBOOK/images/avatar/education-online-books.png',
-    '/EBOOK/images/avatar/portrait-mature-smiling-authoress-sitting-desk.jpg',
-    '/EBOOK/images/avatar/tablet-screen-contents.jpg'
+    '/EBook/',
+    '/EBook/index.html',
+    '/EBook/css/bootstrap-icons.css',
+    '/EBook/css/bootstrap.min.css',
+    '/EBook/css/templatemo-ebook-landing.min.css',  
+    '/EBook/js/bootstrap.bundle.min.js',
+    '/EBook/js/click-scroll.js',
+    '/EBook/js/custom.js',
+    '/EBook/js/jquery.min.js',
+    '/EBook/js/jquery.sticky.js',
+    '/EBook/images/avatar/businessman-sitting-by-table-cafe.jpg',
+    '/EBook/images/avatar/circle-scatter-haikei.png',
+    '/EBook/images/avatar/education-online-books.png',
+    '/EBook/images/avatar/portrait-mature-smiling-authoress-sitting-desk.jpg',
+    '/EBook/images/avatar/tablet-screen-contents.jpg'
   ];
 
 // Install event - caches important files
