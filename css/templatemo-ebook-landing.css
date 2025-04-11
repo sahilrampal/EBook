@@ -11,6 +11,7 @@ https://templatemo.com/tm-588-ebook-landing
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
+  --dark-green:                   #00ff00;
   --primary-color:                #E76F51;
   --secondary-color:              #E9C46A;
   --section-bg-color:             #f0f8ff;
@@ -44,7 +45,8 @@ https://templatemo.com/tm-588-ebook-landing
 }
 
 body {
-  background-color: var(--white-color);
+  /* background-color: var(--white-color); */
+  background-color: var(--dark-green);
   font-family: var(--body-font-family); 
 }
 
